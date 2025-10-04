@@ -48,7 +48,7 @@ This project strictly followed configuration management principles:
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd 24832481_A2_To-Do-List
+    cd A2_To-Do-List
     ```
 
 3.  **Open `index.html`:**

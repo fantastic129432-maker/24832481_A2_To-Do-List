@@ -24,7 +24,7 @@ The To-Do List application allows users to:
 This project strictly followed configuration management principles:
 
 1.  **Version Control (Git & GitHub):** All source code changes were meticulously tracked using Git. The project repository on GitHub serves as the central hub for code management.
-    *   **Repository URL:** `https://github.com/fantastic129432-maker/24832481_A2_To-Do-List` 
+    *   **Repository URL:** `https://github.com/fantastic129432-maker/A2_To-Do-List` 
     *   **GitHub Username:** `fantastic129432-maker` 
 2.  **Branching Strategy:** A feature branching model was adopted. Each significant new feature or modification was developed on a dedicated branch, which was then merged into the `main` branch upon completion and local verification. This ensured a stable `main` codebase.
 3.  **Commit Messages:** Commit messages were kept descriptive and followed a conventional prefix system (e.g., `Initial commit:`, `Feat:`, `Style:`) to clearly articulate the nature and purpose of each change.
